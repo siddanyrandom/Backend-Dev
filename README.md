@@ -1,2 +1,2 @@
 # Backend-Dev
-this repo is for complete backend development 
+This repository contains backend development practice code.
