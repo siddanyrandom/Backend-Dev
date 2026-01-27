@@ -1,0 +1,7 @@
+Difference between synchronous and asynchronous file operations  is :
+
+Synchronous file operations block the execution of the program until
+the operation is completed.
+
+Asynchronous file operations do not block execution and use callbacks
+to handle the result after completion.
