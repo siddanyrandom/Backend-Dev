@@ -1,0 +1,4 @@
+When should you use file streams instead of reading the entire file:
+
+File streams should be used when dealing with large files so that data
+is processed in chunks, reducing memory usage.
