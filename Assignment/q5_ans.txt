@@ -1,0 +1,4 @@
+How to safely delete a directory with all its contents:
+
+A directory can be safely deleted by removing all its files and
+subdirectories recursively with force enabled.
