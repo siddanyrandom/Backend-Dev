@@ -1,0 +1,5 @@
+Common error codes in file system operations and their meaning:
+
+ENOENT  - File or directory does not exist  
+EACCES  - Permission denied  
+EISDIR  - Path refers to a directory   
