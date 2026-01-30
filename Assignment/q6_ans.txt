@@ -1,0 +1,4 @@
+Concept of piping in streams with an example:
+
+Piping is used to transfer data directly from a readable stream to a
+writable stream without storing the entire data in memory.
