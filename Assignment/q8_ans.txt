@@ -1,0 +1,4 @@
+Difference between writeFile and appendFile methods:
+
+writeFile overwrites the existing file content.
+appendFile adds new data to the end of the file.
